@@ -5,6 +5,11 @@
 # See JavaDoc folder for API
 # License: MIT
 # 
+# TO TEST:
+# 1. start server with any available port number
+# 2. start client with the server information and the name of the file to stream
+# (sample file movie.mjpeg provided)
+# 
 # Dependencies:
 #  java.awt.BorderLayout
 #  java.awt.Color
