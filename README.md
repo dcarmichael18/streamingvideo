@@ -1,5 +1,7 @@
 # streamingvideo
-Uses a client and server to stream .mjpeg video files. Created from base code from Pearson Education for a Network class at Cornell College. See JavaDoc folder for API. License: MIT
+- Uses a client and server to stream .mjpeg video files.
+- Created from base code from Pearson Education for a Network class at Cornell College.
+- See JavaDoc folder for API. License: MIT
 ### TO TEST:
 1. start server with any available port number
 2. start client with the server information and the name of the file to stream
